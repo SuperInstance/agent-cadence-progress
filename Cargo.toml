@@ -1,5 +1,6 @@
 [package]
 description = "agent-cadence-progress"
+license = "MIT"
 repository = "https://github.com/SuperInstance/agent-cadence-progress"
 name = "agent-cadence-progress"
 version = "0.1.0"
